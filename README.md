@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://hamzidev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-32b866?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-32b866?style=for-the-badge&logo=react&logoColor=ffffff" />
   </a>
 </p>
 
