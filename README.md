@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://readme-t-yping-svg.herokuapp.com/?lines=Hi,+I'm+Hamzi!;A+Full+Stack+Python+Developer;Fast+Learner+%26+Problem+Solver&font=Orbitron&color=9dff8e&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hey!+Welcome,+I'm+Hamzi.;Full+Stack+Dev+Who+Loves+Python.;Always+Building,+Always+Learning.&font=Orbitron&color=9dff8e&center=true&width=500&height=40&weight=700&size=22&pause=1500" />
 </div>
+
+<p align="center">
+  <a href="https://hamzidev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-9dff8e?style=for-the-badge" />
+  </a>
+</p>
 
 ## 🙋‍♂️ About Me
 ---
@@ -97,12 +103,6 @@ class HamziDev:
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://hamzidev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-9dff8e?style=for-the-badge&logo=firefox-browser&logoColor=9dff8e&labelColor=1A1A1A&color=1A1A1A" alt="hamzidev.com" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9dff8e&height=100&section=footer"/>
