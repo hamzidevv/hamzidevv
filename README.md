@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hey!+Welcome,+I'm+Hamzi.;Full+Stack+Dev+Who+Loves+Python.;Always+Building,+Always+Learning.&font=Orbitron&color=9dff8e&center=true&width=500&height=40&weight=700&size=22&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hey!+Welcome,+I'm+Hamzi.;Full+Stack+Dev+Who+Loves+Python.;Always+Building,+Always+Learning.&font=Orbitron&color=32b866&center=true&width=500&height=40&weight=700&size=22&pause=1500" />
 </div>
 
 <p align="center">
   <a href="https://hamzidev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-9dff8e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-32b866?style=for-the-badge" />
   </a>
 </p>
 
@@ -72,17 +72,17 @@ class HamziDev:
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzidevv&layout=compact&title_color=9dff8e&text_color=ffffff&bg_color=00000000&border_color=9dff8e" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzidevv&layout=compact&title_color=32b866&text_color=ffffff&bg_color=00000000&border_color=32b866" />
 
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzidevv&theme=github-dark&background=00000000&hide_border=true&ring=9dff8e&fire=9dff8e&currStreakLabel=9dff8e&sideLabels=ffffff&dates=9dff8e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzidevv&theme=github-dark&background=00000000&hide_border=true&ring=32b866&fire=32b866&currStreakLabel=32b866&sideLabels=ffffff&dates=32b866" />
 
   <br/>
 
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzidevv&show_icons=true&count_private=true&title_color=9dff8e&text_color=ffffff&icon_color=9dff8e&bg_color=00000000&border_color=9dff8e&hide_border=true&number_color=9dff8e" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzidevv&show_icons=true&count_private=true&title_color=32b866&text_color=ffffff&icon_color=32b866&bg_color=00000000&border_color=32b866&hide_border=true&number_color=32b866" />
 </div>
 
 
@@ -105,5 +105,5 @@ class HamziDev:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9dff8e&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=32b866&height=100&section=footer"/>
 </p>
