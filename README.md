@@ -72,17 +72,17 @@ class HamziDev:
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzidevv&layout=compact&title_color=32b866&text_color=ffffff&bg_color=000000&border_color=32b866" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzidevv&layout=compact&title_color=9dff8e&text_color=ffffff&bg_color=1a1a1a&border_color=32b866" />
   
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzidevv&theme=dark&background=000000&hide_border=false&ring=32b866&fire=32b866&currStreakLabel=32b866&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzidevv&theme=dark&background=1a1a1a&hide_border=false&ring=9dff8e&fire=9dff8e&currStreakLabel=9dff8e&sideLabels=ffffff&dates=ffffff" />
 
   <br/>
 
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzidevv&show_icons=true&count_private=true&title_color=32b866&text_color=ffffff&icon_color=32b866&bg_color=000000&border_color=32b866&hide_border=false&number_color=32b866" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzidevv&show_icons=true&count_private=true&title_color=9dff8e&text_color=ffffff&icon_color=9dff8e&bg_color=1a1a1a&border_color=32b866&hide_border=false&number_color=9dff8e" />
 </div>
 
 
