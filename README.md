@@ -25,7 +25,7 @@ class HamziDev:
         self.interests = ["Machine Learning"]
 ```
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA2c2JsMTE5dTR0MDN4bnM1cmM4d3licGhsOXpxbHg4aGI2NTVmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="300" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHA2c2JsMTE5dTR0MDN4bnM1cmM4d3licGhsOXpxbHg4aGI2NTVmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="390" />
 </div>
 
 ---
