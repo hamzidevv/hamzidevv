@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hey!+Welcome,+I'm+Hamzi.;Full+Stack+Dev+Who+Loves+Python.;Always+Building,+Always+Learning.&font=Orbitron&color=32b866&center=true&width=500&height=40&weight=700&size=22&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hey!+Welcome,+I'm+Hamzi.;Full+Stack+Dev+Who+Loves+Python.;Always+Building,+Always+Learning.&font=Orbitron&color=32b866&center=true&width=500&height=50&weight=700&size=25&pause=1500" />
 </div>
 
 <p align="center">
@@ -72,18 +72,19 @@ class HamziDev:
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzidevv&layout=compact&title_color=32b866&text_color=ffffff&bg_color=00000000&border_color=32b866" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzidevv&layout=compact&title_color=32b866&text_color=ffffff&bg_color=000000&border_color=32b866" />
+  
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzidevv&theme=github-dark&background=00000000&hide_border=true&ring=32b866&fire=32b866&currStreakLabel=32b866&sideLabels=ffffff&dates=32b866" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzidevv&theme=dark&background=000000&hide_border=false&ring=32b866&fire=32b866&currStreakLabel=32b866&sideLabels=ffffff&dates=ffffff" />
 
   <br/>
 
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzidevv&show_icons=true&count_private=true&title_color=32b866&text_color=ffffff&icon_color=32b866&bg_color=00000000&border_color=32b866&hide_border=true&number_color=32b866" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzidevv&show_icons=true&count_private=true&title_color=32b866&text_color=ffffff&icon_color=32b866&bg_color=000000&border_color=32b866&hide_border=false&number_color=32b866" />
 </div>
+
 
 
 ---
