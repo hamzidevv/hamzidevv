@@ -80,7 +80,8 @@ class HamziDev:
   <br/>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzidevv&theme=dark&background=1a1a1a&hide_border=false&ring=9dff8e&fire=9dff8e&currStreakLabel=9dff8e&sideLabels=ffffff&dates=ffffff&border=32b866" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=hamzidevv&theme=dark&background=1a1a1a&hide_border=false&ring=9dff8e&fire=9dff8e&currStreakLabel=9dff8e&sideLabels=ffffff&dates=ffffff&border=32b866)
+
 
 <!--  <br/> -->
 
